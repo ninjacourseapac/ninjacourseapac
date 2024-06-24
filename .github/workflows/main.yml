@@ -1,4 +1,4 @@
-name: Fetch Postgres Dynamic Secrets
+name: Fetch Postgres Dynamic Secrets
 'on': push
 jobs:
   fetch_postgres_dynamic_secrets:
